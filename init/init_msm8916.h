@@ -27,8 +27,8 @@
    IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-#ifndef __INIT_MSM8916__H__
-#define __INIT_MSM8916__H__
+#ifndef __INIT_MSM8937__H__
+#define __INIT_MSM8937__H__
 
 void init_target_properties();
 
