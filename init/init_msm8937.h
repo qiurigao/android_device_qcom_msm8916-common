@@ -32,4 +32,4 @@
 
 void init_target_properties();
 
-#endif /* __INIT_MSM8916__H__ */
+#endif /* __INIT_MSM8937__H__ */
